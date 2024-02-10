@@ -1,0 +1,26 @@
+ .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #cccccc;
+  }
+  
+  button {
+    background-color: #4700baa8;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  
